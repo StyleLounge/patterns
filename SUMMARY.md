@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* Code
+* [Code](code.md)
 * [Errors](chapter1.md)
 * [Functions](functions.md)
 * [Exports](exports.md)
