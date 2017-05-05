@@ -4,10 +4,10 @@
 * Code
 * [Errors](chapter1.md)
 * [Functions](functions.md)
-* Exports
-* Classes
-* Variables
-* Conditionals
-* Testing
-* License
+* [Exports](exports.md)
+* [Classes](classes.md)
+* [Variables](variables.md)
+* [Conditionals](conditionals.md)
+* [Testing](testing.md)
+* [License](license.md)
 
