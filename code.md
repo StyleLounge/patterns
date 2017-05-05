@@ -6,5 +6,13 @@ Building on top of that we collected best practices that can be found in these c
 
 ## Content
 
+* [Errors](errors.md)
+* [Functions](functions.md)
+* [Testing](testing.md)
+* [Exports](exports.md)
+* [Conditionals](conditionals.md)
+* [Classes](classes.md)
+* [Variables](variables.md)
+
 
 

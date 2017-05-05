@@ -1,3 +1,7 @@
+# Patterns and Best Practices at StyleLounge
+
+This documentation 
+
 # Summary
 
 * [Introduction](README.md)
@@ -11,4 +15,6 @@
   * [Testing](testing.md)
 * [Data Flow](data-flow.md)
 * [License](license.md)
+
+
 
