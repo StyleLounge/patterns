@@ -1,4 +1,4 @@
-# Summary
+# Patterns and Style at StyleLounge
 
 Guten Tag!
 
