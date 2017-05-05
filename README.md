@@ -1,8 +1,12 @@
 # Patterns and Best Practices at StyleLounge
 
-This documentation 
+This documentation is collaboratively updated by the developers at StyleLounge and attempts to collect patterns and best practices that make our work easier every day.
 
-# Summary
+> Learn more about us at [StyleLounge.io](/StyleLounge.io)!
+
+# [Read this GitBook now.](https://stylelounge.gitbooks.io/style/content/)
+
+# Articles in this Documentation
 
 * [Introduction](README.md)
 * [Code](code.md)
