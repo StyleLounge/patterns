@@ -4,7 +4,7 @@ Guten Tag!
 
 * [Introduction](README.md)
 * [Code](code.md)
-  * [Errors](chapter1.md)
+  * [Errors](errors.md)
   * [Functions](functions.md)
   * [Exports](exports.md)
   * [Classes](classes.md)
