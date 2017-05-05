@@ -26,26 +26,25 @@ const myFunction = (x: number) => {
 };
 ```
 
-<a name="variables--no-implicit-any"></a><a name="5.2"></a>
-- [5.2](#variables--no-implicit-any) **No implicit any**
+### **No implicit any**
 
-  > Why? Easier-to-understand code
+> Why? Easier-to-understand code
 
-  ```typescript
-  // bad
-  const myFunction = () => {
-      const result = thirdPartyLibrary();
-      doSomethingElse();
-      return result;
-  };
+```typescript
+// bad
+const myFunction = () => {
+  const result = thirdPartyLibrary();
+  doSomethingElse();
+  return result;
+};
 
-  // good
-  const myFunction = ():any => {
-      const result:any = thirdPartyLibrary();
-      doSomethingElse();
-      return result;
-  };
-  ```
+// good
+const myFunction = ():any => {
+  const result:any = thirdPartyLibrary();
+  doSomethingElse();
+  return result;
+};
+```
 
 ###  **Make your type hints as specific as possible**
 
