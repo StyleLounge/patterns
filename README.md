@@ -3,8 +3,8 @@
 This documentation is collaboratively updated by the developers at StyleLounge and attempts to collect patterns and best practices that make our work easier every day.
 
 > Learn more about us at [StyleLounge.io](http://www.StyleLounge.io)!
-
-# [Read this GitBook now.](https://stylelounge.gitbooks.io/style/content/)
+>
+> And of course you can [read this GitBook now.](https://stylelounge.gitbooks.io/style/content/)
 
 # Articles in this Documentation
 
