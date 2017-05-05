@@ -1,8 +1,4 @@
-# Patterns and Style at StyleLounge
-
-Guten Tag!
-
-# Content
+# Summary
 
 * [Introduction](README.md)
 * [Code](code.md)
@@ -13,6 +9,7 @@ Guten Tag!
   * [Variables](variables.md)
   * [Conditionals](conditionals.md)
   * [Testing](testing.md)
+* * Asynchronous Flow
 * [License](license.md)
 
 
