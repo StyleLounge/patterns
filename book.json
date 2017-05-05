@@ -3,5 +3,5 @@
   "author": "The awesome team at StyleLounge <info@stylelounge.io>",
   "language": "en",
   "structure": {
-    "readme": "SUMMARY.md"
+    "summary": "README.md"
 }
