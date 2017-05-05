@@ -2,10 +2,10 @@
 
 ## **Catching**: Never catch a generic error
 
-> Why? Avoids unexpected behavior from unexpected errors thrown within the `try` block.
-  Especially when code is added later on.
+> Why? Avoids unexpected behavior from unexpected errors thrown within the `try` block.  
+>   Especially when code is added later on.
 
-  ```javascript
+```javascript
   // bad
   try {
      riskyFunction();
@@ -23,12 +23,12 @@
       throw error;
 
   }
-  ```
+```
 
 ### **Pass errors up** to not loose additional properties or the stack
 
-> Why? Within small microservices it's easy to understand what entry point an error came from but difficult to
-  understand the exact code point if the stack has been obfuscated
+> Why? Within small microservices it's easy to understand what entry point an error came from but difficult to  
+>   understand the exact code point if the stack has been obfuscated
 
 ```javascript
 // bad
@@ -47,24 +47,23 @@ try {
 }
 ```
 
-### **Never reject with or throw anything but instances of `Error`**
+### **Never reject with or throw anything but instances of **`Error`
 
-  > Why? May crash third-party code and leads to a lot of confusion
+> Why? May crash third-party code and leads to a lot of confusion
 
-  ```javascript
+```javascript
   // bad
   throw "Bad things happened";
 
   // good
   throw new Error("Bad things happened");
-  ```
+```
 
 ### **Always provide useful error messages**
 
 > Why? Saves time and helps to understand the context
 
-
-  ```javascript
+```javascript
   describe("createSlackAlertEmitter", function() {
 
       it("should create a new notifier", function() {
@@ -75,4 +74,7 @@ try {
           throw new Error('an error happened while trying to hunt the giraffe');
       });
   });
-  ```
+```
+
+
+
