@@ -18,6 +18,7 @@ This documentation is collaboratively updated by the developers at StyleLounge a
   * [Conditionals](conditionals.md)
   * [Testing](testing.md)
 * [Data Flow](data-flow.md)
+* [Communication](communication.md)
 * [License](license.md)
 
 
