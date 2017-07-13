@@ -1,4 +1,4 @@
-# Communication
+# Team Communication
 
 ### **Always Respond \(briefly\) on Slack**
 
@@ -21,12 +21,10 @@
 ### Use your avatar emoji to indicate agreement or action
 
 > Why? It saves a lot of time and is way easier to read than scanning through messages by multiple people
-
+>
 > #### Example![](/assets/Screen Shot 2017-07-13 at 15.31.37.png)
 >
 > This requires that you upload a custom emoji \(e.g. `:firstname-lastname:`\)  to slack.
-
-
 
 
 
