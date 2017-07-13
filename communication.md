@@ -18,13 +18,21 @@
 > * Use ✅ \(`:white_check_mark:`\) to agree or ❌ \(`:x:`\) to disagree
 > * Use ⌛️ \(`:hourglass:`\) to show that you will respond at a later point in time
 
-### Use your avatar emoji to indicate agreement or action
+### Use avatar emoji to indicate agreement
 
 > Why? It saves a lot of time and is way easier to read than scanning through messages by multiple people
 >
-> #### Example![](/assets/Screen Shot 2017-07-13 at 15.31.37.png)
+> #### Example for decision making
 >
-> This requires that you upload a custom emoji \(e.g. `:firstname-lastname:`\)  to slack.
+> ![](/assets/Screen Shot 2017-07-13 at 15.31.37.png)This requires that you upload a custom emoji \(e.g. `:firstname-lastname:`\)  to slack.
+
+### Use avatar emoji for important announcements
+
+> Why? Distributing small pieces of important information can take a lot of time and is no fun.
+>
+> #### Example for a dedicated `#dev-announcements` channe
+>
+> ![](/assets/Screen Shot 2017-07-13 at 15.40.05.png)This requires that you upload a custom emoji \(e.g. `:firstname-lastname:`\)  to slack.
 
 
 
