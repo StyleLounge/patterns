@@ -10,7 +10,7 @@
   * [Conditionals](conditionals.md)
   * [Testing](testing.md)
 * [Data Flow](data-flow.md)
-* [Communication](communication.md)
+* [Team Communication](communication.md)
 * [Conceptual Knowledge](conceptual-knowledge.md)
 * [Contribute](contribute.md)
 * [License](license.md)
