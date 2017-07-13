@@ -1,4 +1,8 @@
-# Functions
+# Conceptual Knowledge
+
+### Ryan Dahl
+
+### https://www.youtube.com/watch?v=ztspvPYybIY
 
 ### **Never use the **`function`** keyword unless required by a third-party library**
 
