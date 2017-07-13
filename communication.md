@@ -30,7 +30,7 @@
 
 > Why? Distributing small pieces of important information can take a lot of time and is no fun.
 >
-> #### Example for a dedicated `#dev-announcements` channe
+> #### Example for a dedicated `#dev-announcements` channel
 >
 > ![](/assets/Screen Shot 2017-07-13 at 15.40.05.png)This requires that you upload a custom emoji \(e.g. `:firstname-lastname:`\)  to slack.
 
