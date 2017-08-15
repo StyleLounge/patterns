@@ -11,6 +11,7 @@
 * [Testing](testing.md)
 * [Team Communication](communication.md)
 * [Conceptual Knowledge](conceptual-knowledge.md)
+* [Tool Knowledge](tool-knowledge.md)
 * [Contribute](contribute.md)
 * [License](license.md)
 
