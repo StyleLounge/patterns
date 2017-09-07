@@ -1,4 +1,4 @@
-> 🥋 Read this book at [patterns.StyleLounge.io](https://patterns.StyleLounge.io) and contribute at [github.com/StyleLounge/patterns](https://github.com/StyleLounge/patterns).
+> 📖  Read this book at [patterns.StyleLounge.io](https://patterns.StyleLounge.io) and contribute at [github.com/StyleLounge/patterns](https://github.com/StyleLounge/patterns).
 
 # Summary
 
