@@ -4,6 +4,6 @@
   "language": "en",
   "structure": {
     "readme": "readme.md",
-    "summary": "book/summary.md"
+    "summary": "summary.md"
   }
 }
