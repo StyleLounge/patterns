@@ -8,13 +8,13 @@
 
 > Even less to say about this. Just makes a lot of sense
 
-### [Post from Gene Hughson on microservices boundaries governance, reuse and complexity](https://genehughson.wordpress.com/2014/06/04/more-on-microservices-boundaries-governance-reuse-complexity/)
+### [Post from Gene Hughson on microservices boundaries governance, reuse and complexity](https://genehughson.wordpress.com/2014/06/04/more-on-microservices-boundaries-governance-reuse-complexity/)
 
-> Great post that contains lots of links
+> Great post that contains lots of links
 
-### [Turning the database inside out with Apache Samza](https://www.confluent.io/blog/turning-the-database-inside-out-with-apache-samza/)
+### [Turning the database inside out with Apache Samza](https://www.confluent.io/blog/turning-the-database-inside-out-with-apache-samza/)
 
 > Although this post is about Apache Samza, a stream processing framework, this article is a seriously great deep dive into databases and distributed non ACID-systems.
 
 
-### [A[](https://s.w.org/images/core/emoji/2.3/svg/1f61c.svg "😜")](http://example.com)
+
