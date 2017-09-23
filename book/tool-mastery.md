@@ -24,7 +24,7 @@
 
 > Why? having multiple cursors at a time is often many times faster then repeating yourself or using find/replace
 
-### ![](/assets/multi-cursor.gif)
+### ![](/book/assets/multi-cursor.gif)
 
 ### Spend time on learning shortcuts
 

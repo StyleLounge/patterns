@@ -24,7 +24,7 @@
 >
 > #### Example for decision making
 >
-> ![](/assets/Screen Shot 2017-07-13 at 15.31.37.png)This requires that you upload a custom emoji \(e.g. `:firstname-lastname:`\)  to slack.
+> ![](/book/assets/Screen Shot 2017-07-13 at 15.31.37.png)This requires that you upload a custom emoji \(e.g. `:firstname-lastname:`\)  to slack.
 
 ### Use avatar emoji for important announcements
 
@@ -32,7 +32,7 @@
 >
 > #### Example for a dedicated `#dev-announcements` channel
 >
-> ![](/assets/Screen Shot 2017-07-13 at 15.40.05.png)This requires that you upload a custom emoji \(e.g. `:firstname-lastname:`\)  to slack.
+> ![](/book/assets/Screen Shot 2017-07-13 at 15.40.05.png)This requires that you upload a custom emoji \(e.g. `:firstname-lastname:`\)  to slack.
 
 
 
