@@ -34,5 +34,11 @@
 
 * [kapeli.com/dash](https://kapeli.com/dash#docsets)
 
+### Faster cloning \(`git clone StyleLounge/patterns`\)
+
+> Why? If you're frequently working with code hosted on GitHub, `hub` saves you time everyday. No more need for full ssh/https urls when getting your favorite repository.
+
+* [github.com/github/hub](http://github.com/github/hub)
+
 
 
