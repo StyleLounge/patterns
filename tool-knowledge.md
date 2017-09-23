@@ -28,7 +28,7 @@
 
 * [justgetflux.com](https://justgetflux.com/)
 
-### Offline API documentation with dash
+### Offline API documentation with Dash
 
 > Why? No wifi in trains, long plane travels or the urgent need to code at a beautiful beach without network coverage. In these situations still being able to browser documentation of frameworks, languages and tools makes life so much more fun. Dash allows to download documentation to your Mac
 
