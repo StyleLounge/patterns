@@ -1,6 +1,5 @@
 # Summary
 
-* [Welcome!](../readme.md)
 * [Code](code.md)
   * [Errors](errors.md)
   * [Functions](functions.md)
@@ -12,3 +11,6 @@
 * [Tool Mastery](tool-knowledge.md)
 * [Contribute](contribute.md)
 * [License](license.md)
+
+
+
