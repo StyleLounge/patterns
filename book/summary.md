@@ -1,6 +1,6 @@
 # Summary
 
-* [Welcome!](readme.md)
+* [Welcome!](../readme.md)
 * [Code](code.md)
   * [Errors](errors.md)
   * [Functions](functions.md)
