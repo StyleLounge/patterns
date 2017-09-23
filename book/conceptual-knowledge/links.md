@@ -4,7 +4,7 @@
 
 > Not much to explain about it. It’s a simply thing improving every commit
 
-### [12 factors of a 12 factor application![](https://s.w.org/images/core/emoji/2.3/svg/1f61c.svg "😜")](http://12factor.net/)
+### [12 factors of a 12 factor application!](http://12factor.net/)
 
 > Even less to say about this. Just makes a lot of sense
 
@@ -17,4 +17,4 @@
 > Although this post is about Apache Samza, a stream processing framework, this article is a seriously great deep dive into databases and distributed non ACID-systems.
 
 
-
+### [A[](https://s.w.org/images/core/emoji/2.3/svg/1f61c.svg "😜")](http://example.com)

@@ -18,11 +18,11 @@ Patterns are small reusable structures that allow
 
 ## Table of Contents
 
-* [Code](book/code.md)
-  * [Errors](book/errors.md)
-  * [Functions](book/functions.md)
-  * [Variables](book/variables.md)
-  * [Conditionals](book/conditionals.md)
+* [Code](book/code/code.md)
+  * [Errors](book/code/errors.md)
+  * [Functions](book/code/functions.md)
+  * [Variables](book/code/variables.md)
+  * [Conditionals](book/code/conditionals.md)
 * [Testing](book/testing.md)
 * [Team Communication](communication.md)
 * [Conceptual Knowledge](conceptual-knowledge.md)
