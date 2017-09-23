@@ -7,10 +7,12 @@
   * [Variables](book/variables.md)
   * [Conditionals](book/conditionals.md)
 * [Testing](book/testing.md)
-* [Team Communication](book/communication.md)
 * [Conceptual Knowledge](book/conceptual-knowledge.md)
 * [Talks](talks-about-concepts.md)
+* Books
+* Links
 * [Tool Mastery](book/tool-knowledge.md)
+* [Team Communication](book/communication.md)
 * [Contribute](book/contribute.md)
-* [License](book/license.md)
+* Books
 
