@@ -12,5 +12,5 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 # Amendments
 
-We encourage you to fork this guide and change the rules to fit your team's style guide.
+We encourage you to fork this guide and change the rules to fit your team's needs and preferences.
 
