@@ -24,9 +24,9 @@ Patterns are small reusable structures that allow
   * [Variables](book/variables.md)
   * [Conditionals](book/conditionals.md)
 * [Testing](book/testing.md)
-* [Team Cobook/mmunication](communication.md)
-* [Conceptual Knbook/owledge](conceptual-knowledge.md)
-* [Tool Mabook/stery](tool-knowledge.md)
+* [Team Communication](communication.md)
+* [Conceptual Knowledge](conceptual-knowledge.md)
+* [Tool Mastery](tool-knowledge.md)
 * [Contribute](book/contribute.md)
 * [License](book/license.md)
 
