@@ -2,7 +2,28 @@
 
 ### **Think hard before using plural** for classes or variables that are not arrays
 
-> Why? Consistency!
+> Why? Consistency! Also, what happens if you suddenly have more than one objects that have a plural naming?
+
+```typescript
+// Bad
+interface IOptions {
+    host: string;
+    port: number;    
+}
+const productOptions: IOptions = { host: "products.example.com", port: 1337 };
+const userOptions: IOptions = { host: "users.example.com", port: 1337 };
+
+const optionss = [optionsA, optionsB];
+const optionsList = [optionsA, optionsB];
+
+
+// Good
+interface IOptionSet {
+    host: string;
+    port: number;
+}
+const optionSets: IOptionSet[] = [optionSetA, optionSetB];
+```
 
 ### **Never shadow or reuse variables**
 
@@ -46,7 +67,7 @@ const myFunction = ():any => {
 };
 ```
 
-###  **Make your type hints as specific as possible**
+### **Make your type hints as specific as possible**
 
 > Why? Easier-to-understand code
 
@@ -84,3 +105,6 @@ const myFunction = (): IFooProp => {
     };
 };
 ```
+
+
+
