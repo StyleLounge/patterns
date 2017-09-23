@@ -6,7 +6,7 @@
 
 The goal of this little GitBook is to make you and me a better software developer. It tries to do this by sharing experience and knowledge in the form of patterns and by encouraging you to [contribute](/contribute.md) so that others can learn from you. 🖖🏾
 
-### Why Patterns?
+#### Why Patterns?
 
 Patterns are small reusable structures that allow
 
