@@ -1,6 +1,6 @@
 # Testing
 
-### Don't use **Mocha's `this` context**
+### Don't use **Mocha's **`this`** context**
 
 > Why? Easier to understand and maintain, especially with more complex tests
 
@@ -51,26 +51,36 @@ it("should call amqplib.publish", function(done) {
 
 ### Don't monkey patch
 
+> 🚧 This section is a stub. Please help by expanding it!
+>
 > If it is necessary to replace just a part of the SUT to properly test,  
 > then the design is not very good and should be improved instead of working around obvious limitations.
 
 ### Don't reuse
 
+> 🚧 This section is a stub. Please help by expanding it!
+>
 > reusing stuff creates side effects that could make tests non deterministic and therefore not very helpful.  
 > When testing against a database it can make sense for performance reasons to reuse DB connections.  
 > Be careful though to reset database contents.
 
 ### Watch every test fail at least once
 
+> 🚧 This section is a stub. Please help by expanding it!
+>
 > The main goal of tests is to alert if something does not work anymore,  
 > so we should make sure that a test is able to fail and fail for a specific reason to make that test meaningful.
 
 ### Don't test code, test requirements
 
+> 🚧 This section is a stub. Please help by expanding it!
+>
 > If you have to change the test when changing the implementation, it is not very helpful  
 > to make sure the stuff we forgot about still works.
 
 ### If writing tests is not easy and obvious the code needs improvement
 
-TODO
+🚧 This section doesn't exist yet. Please help by writing it!
+
+
 
