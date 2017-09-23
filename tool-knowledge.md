@@ -1,7 +1,5 @@
 # Tool Mastery
 
-## Editors and IDEs
-
 ### Multi Cursor
 
 > Why? having multiple cursors at a time is often many times faster then repeating yourself or using find/replace
@@ -22,12 +20,6 @@
 
 * [FiraCode font on GitHub](https://github.com/tonsky/FiraCode)
 
-### F.lux to code and sleep :\)
-
-> Why? Reducing the level of blue colors during the night makes it easier to go to sleep after long hours.
-
-* [justgetflux.com](https://justgetflux.com/)
-
 ### Offline API documentation with Dash
 
 > Why? No wifi in trains, long plane travels or the urgent need to code at a beautiful beach without network coverage. In these situations still being able to browser documentation of frameworks, languages and tools makes life so much more fun. Dash allows to download documentation to your Mac
@@ -39,6 +31,12 @@
 > Why? If you're frequently working with code hosted on GitHub, `hub` saves you time everyday. No more need for full ssh/https urls when getting your favorite repository.
 
 * [github.com/github/hub](http://github.com/github/hub)
+
+### F.lux to code and sleep 💤
+
+> Why? Reducing the level of blue colors during the night makes it easier to go to sleep after long hours.
+
+* [justgetflux.com](https://justgetflux.com/)
 
 
 
