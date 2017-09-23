@@ -4,7 +4,7 @@
 
 > Not much to explain about it. It’s a simply thing improving every commit
 
-### [12 factors of a 12 factor application!](http://12factor.net/)
+### [12 factors of a 12 factor application](http://12factor.net/)
 
 > Even less to say about this. Just makes a lot of sense
 
