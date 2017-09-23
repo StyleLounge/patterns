@@ -10,7 +10,7 @@
 * [Conceptual Knowledge](book/conceptual-knowledge.md)
 * [Talks](talks-about-concepts.md)
 * [Books](books.md)
-* Links
+* [Links](links.md)
 * [Tool Mastery](book/tool-knowledge.md)
 * [Team Communication](book/communication.md)
 * [Contribute](book/contribute.md)
