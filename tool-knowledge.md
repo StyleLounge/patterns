@@ -14,7 +14,7 @@
 
 * [Webstorm Shortcuts](https://blog.jetbrains.com/webstorm/2015/06/10-webstorm-shortcuts-you-need-to-know/)
 
-### Monocode Ligatures
+### Monospace Ligatures
 
 > What? Why? Programmers use a lot of symbols, often encoded with several characters. Ligatures are just a font rendering feature: The underlying code remains ASCII-compatible. The help to read and understand code faster. For some frequent sequences like `..` or `//`, ligatures allow us to correct spacing. It's as easy as installing a TTF font on your computer.
 
