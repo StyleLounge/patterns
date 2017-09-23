@@ -1,4 +1,4 @@
-### 📖 Read me at [patterns.stylelounge.io](https://patterns.stylelounge.io)!
+### 📖 Read me at [patterns.stylelounge.io](https://patterns.stylelounge.io) or [contribute](/book/contribute.md) on [GitHub](https://github.com/StyleLounge/patterns)
 
 ---
 
