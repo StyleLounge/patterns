@@ -14,7 +14,6 @@
 * [Tool Mastery](book/tool-knowledge.md)
 * [Team Communication](book/communication.md)
 * [Contribute](book/contribute.md)
-* Books
 
 
 
