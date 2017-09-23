@@ -1,4 +1,4 @@
-# Talks About Concepts
+# Talks
 
 This is a collection of talks that are insightful and inspiring to every developer. Of course the selection is highly opinionated but the goal is to have only the creme de la creme of technical talks. And the focus is not on specific tools or languages, but on getting a deeper understanding of concepts underlying everyday's development.
 
