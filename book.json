@@ -3,6 +3,7 @@
   "author": "The awesome team at StyleLounge <info@stylelounge.io>",
   "language": "en",
   "structure": {
-    "summary": "README.md"
+    "readme": "readme.md",
+    "summary": "summary.md"
   }
 }
