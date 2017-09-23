@@ -2,6 +2,7 @@
   "title": "StyleLounge Patterns and Best Practices",
   "author": "The awesome team at StyleLounge <info@stylelounge.io>",
   "language": "en",
+  "root": "articles",
   "structure": {
     "readme": "readme.md",
     "summary": "summary.md"
