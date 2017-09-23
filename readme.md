@@ -16,7 +16,7 @@ Patterns are small reusable structures that allow
 * Forking and Sharing
 * Efficient speech by replacing concepts with terms
 
-### Table of Contents
+## Table of Contents
 
 * [Code](book/code.md)
   * [Errors](book/errors.md)
