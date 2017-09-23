@@ -9,7 +9,7 @@
 * [Testing](book/testing.md)
 * [Team Communication](book/communication.md)
 * [Conceptual Knowledge](book/conceptual-knowledge.md)
-* [Talks about Concepts](talks-about-concepts.md)
+* [Talks](talks-about-concepts.md)
 * [Tool Mastery](book/tool-knowledge.md)
 * [Contribute](book/contribute.md)
 * [License](book/license.md)
