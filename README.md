@@ -1,5 +1,3 @@
-> 📖  Read this book at [patterns.StyleLounge.io](https://patterns.StyleLounge.io) and contribute at [github.com/StyleLounge/patterns](https://github.com/StyleLounge/patterns).
-
 # Summary
 
 * [Introduction](README.md)
@@ -13,9 +11,7 @@
 * [Testing](testing.md)
 * [Team Communication](communication.md)
 * [Conceptual Knowledge](conceptual-knowledge.md)
-* [Tool Knowledge](tool-knowledge.md)
+* [Tool Mastery](tool-knowledge.md)
 * [Contribute](contribute.md)
 * [License](license.md)
-
-
 
