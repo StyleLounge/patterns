@@ -9,6 +9,7 @@
 * [Testing](book/testing.md)
 * [Conceptual Knowledge](book/conceptual-knowledge/conceptual-knowledge.md)
   * [Talks](book/conceptual-knowledge/talks.md)
+  * [Distributed Architecture](book/conceptual-knowledge/distributed-architecture.md)
   * [Books](book/conceptual-knowledge/books.md)
   * [Links](book/conceptual-knowledge/links.md)
 * [Tool Mastery](book/tool-mastery.md)
