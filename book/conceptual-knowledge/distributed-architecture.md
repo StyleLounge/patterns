@@ -1,10 +1,10 @@
 # Architecture
 
-TODO
+TODO intro text
 
 ### The Twelve-Factor App
 
-> Even less to say about this. Just makes a lot of sense
+> A standard collection of patterns and best practices for designing applications.
 
 * [12factor.net](http://12factor.net/)
 
