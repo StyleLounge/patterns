@@ -16,6 +16,12 @@ Patterns are small reusable structures that allow
 * Forking and Sharing
 * Efficient speech by replacing concepts with terms
 
+## Perspective
+
+This book is maintained by StyleLounge and therefore starts from their point of view: A reactive \([reactivemanifesto.org](https://www.reactivemanifesto.org)\), fully decoupled microservice architecture running on node.js/TypeScript, properly tested and continuously and continuously deployed into a kubernetes cluster \([read more about our technology](http://www.stylelounge.io/technology/)\).
+
+Our stated goal is to provide knowledge that is as applicable in other contexts.
+
 ## Table of Contents
 
 * [Code](book/code/code.md)
