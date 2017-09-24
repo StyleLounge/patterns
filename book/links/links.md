@@ -4,9 +4,9 @@ Meaningful, useful patterns are built on the shoulders of giants. That is concep
 
 * [Architecture](/architecture.md)
 
-* [Software Craftsmanship](/book/conceptual-knowledge/books.md)
+* [Software Craftsmanship](/book/links/software-craftmanship.md)
 
-* [Tool Mastery](/book/tool-mastery.md)
+* [Tool Mastery](/book/links/tool-mastery.md)
 
 
 

@@ -1,4 +1,4 @@
-### 📖 Read at [patterns.stylelounge.io](https://patterns.stylelounge.io) and [contribute](/book/contribute.md) on [GitHub](https://github.com/StyleLounge/patterns)
+### 📖 Read at [patterns.stylelounge.io](https://patterns.stylelounge.io) and [contribute](/contribute.md) on [GitHub](https://github.com/StyleLounge/patterns)
 
 ---
 
@@ -33,8 +33,8 @@ Our stated goal is to provide knowledge that is as applicable in other contexts.
 * [Team Communication](communication.md)
 * [Conceptual Knowledge](conceptual-knowledge.md)
 * [Tool Mastery](tool-knowledge.md)
-* [Contribute](book/contribute.md)
-* [License](book/license.md)
+* [Contribute](contribute.md)
+* [License](license.md)
 
 
 
