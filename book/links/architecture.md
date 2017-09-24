@@ -8,7 +8,7 @@ TODO intro text
 
 * [12factor.net](http://12factor.net/)
 
-### Andrew Hao - Pitfalls to avoid when moving to async systems
+### 📄 Andrew Hao - Pitfalls to avoid when moving to async systems
 
 > A great article for people that are considering or starting to add more asynchronicity to their system \(if that applies to you, feel free to get in touch with StyleLounge, we're happy to talk about our experiences with it 🙂\)
 
