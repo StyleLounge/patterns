@@ -1,6 +1,12 @@
-# Team Communication
+# Communication
 
-### **Always Respond \(briefly\) on Slack**
+### 5 Whys
+
+> Why? Arguably one of the most important patterns when talking about technology. It helps seniors and juniors alike to get to the bottom of things and greatly reduces politics, acceptance of apparently self-evident truths and hunting after ghosts in the machine
+
+* [en.wikipedia.org/wiki/5\_Whys](https://en.wikipedia.org/wiki/5_Whys)
+
+### Simple Immediate Responses
 
 > Why? Because any feedback is appreciated and better than no feedback at all, even if you don't have the answer
 >
@@ -18,7 +24,7 @@
 > * Use ✅ \(`:white_check_mark:`\) to agree or ❌ \(`:x:`\) to disagree
 > * Use ⌛️ \(`:hourglass:`\) to show that you will respond at a later point in time
 
-### Use avatar emoji to indicate agreement
+### Avatar emoji to signal \(dis\)agreement
 
 > Why? It saves a lot of time and is way easier to read than scanning through messages by multiple people
 >
@@ -26,7 +32,7 @@
 >
 > ![](/book/assets/Screen Shot 2017-07-13 at 15.31.37.png)This requires that you upload a custom emoji \(e.g. `:firstname-lastname:`\)  to slack.
 
-### Use avatar emoji for important announcements
+### Announcements with read-acknowledgements using avatar emoji
 
 > Why? Distributing small pieces of important information can take a lot of time and is no fun.
 >

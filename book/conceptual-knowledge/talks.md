@@ -4,12 +4,6 @@ This is a collection of talks that are insightful and inspiring to every develop
 
 ⚠️ There's millions of talks about computer science and software engineering out there. Please open a pull request if you think something should be removed or added. Thank you!
 
-### Rich Hickey – The Value of Values
-
-> Mind-opening talk about very common conceptions about entities and how to story information. A great motivator for immutability and definitely a must see.
-
-* [youtube.com/watch?v=-6BsiVyC1kM](https://www.youtube.com/watch?v=-6BsiVyC1kM)
-
 
 
 

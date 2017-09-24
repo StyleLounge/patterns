@@ -1,4 +1,4 @@
-# Links
+# Collaboration
 
 ### [Semantic Commit Messages](https://seesparkbox.com/foundry/semantic_commit_messages)
 
