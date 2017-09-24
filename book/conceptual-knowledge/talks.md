@@ -10,7 +10,7 @@ This is a collection of talks that are insightful and inspiring to every develop
 
 * [youtube.com/watch?v=-6BsiVyC1kM](https://www.youtube.com/watch?v=-6BsiVyC1kM)
 
-### 
+
 
 
 
