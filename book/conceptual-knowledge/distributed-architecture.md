@@ -1,5 +1,11 @@
 # Architecture
 
+### The Twelve-Factor App
+
+> Even less to say about this. Just makes a lot of sense
+
+* [12factor.net](http://12factor.net/)
+
 ### Ryan Dahl - The idea behind node.js: Callback-based asynchronicity & the event loop
 
 > As relevant to node.js developers as to everybody else. Ryan explains the motivation behind the asynchronicity model of node.js and explains the conceptual problems with traditional thread-based models.
@@ -21,17 +27,17 @@
 * Part 1: [youtube.com/watch?v=1wiMLkXz26M](https://www.youtube.com/watch?v=1wiMLkXz26M)
 * Part 2: [youtube.com/watch?v=ebCtNmTVIJY](https://www.youtube.com/watch?v=ebCtNmTVIJY)
 
-### [12 factors of a 12 factor application](http://12factor.net/)
-
-> Even less to say about this. Just makes a lot of sense
-
-### [Post from Gene Hughson on microservices boundaries governance, reuse and complexity](https://genehughson.wordpress.com/2014/06/04/more-on-microservices-boundaries-governance-reuse-complexity/)
+### Gene Hughson - Boundaries, Governance, Reuse & Complexity
 
 > Great post that contains lots of links
 
-### [Turning the database inside out with Apache Samza](https://www.confluent.io/blog/turning-the-database-inside-out-with-apache-samza/)
+* [genehughson.wordpress.com/2014/06/04/more-on-microservices-boundaries-governance-reuse-complexity](https://genehughson.wordpress.com/2014/06/04/more-on-microservices-boundaries-governance-reuse-complexity/)
+
+### Martin Kleppmann - Turning the db inside out with Apache Samza
 
 > Although this post is about Apache Samza, a stream processing framework, this article is a seriously great deep dive into databases and distributed non ACID-systems.
+
+* [confluent.io/blog/turning-the-database-inside-out-with-apache-samza](https://www.confluent.io/blog/turning-the-database-inside-out-with-apache-samza/)
 
 
 
