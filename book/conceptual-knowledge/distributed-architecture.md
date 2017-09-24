@@ -1,4 +1,4 @@
-# \(Distributed\) Architecture
+# Architecture
 
 ### Ryan Dahl - The idea behind node.js: Callback-based asynchronicity & the event loop
 
