@@ -8,6 +8,12 @@ TODO intro text
 
 * [12factor.net](http://12factor.net/)
 
+### Andrew Hao - Pitfalls to avoid when moving to async systems
+
+> A great article for people that are considering or starting to add more asynchronicity to their system \(if that applies to you, feel free to get in touch with StyleLounge, we're happy to talk about our experiences with it 🙂\)
+
+* [g9labs.com/2017/07/19/pitfalls-to-avoid-when-moving-to-async-systems/](http://www.g9labs.com/2017/07/19/pitfalls-to-avoid-when-moving-to-async-systems/)
+
 ### 🗣 Ryan Dahl - The idea behind node.js: Callback-based asynchronicity & the event loop
 
 > As relevant to node.js developers as to everybody else. Ryan explains the motivation behind the asynchronicity model of node.js and explains the conceptual problems with traditional thread-based models.
