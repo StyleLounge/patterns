@@ -1,5 +1,7 @@
 # Architecture
 
+TODO
+
 ### The Twelve-Factor App
 
 > Even less to say about this. Just makes a lot of sense
@@ -27,7 +29,7 @@
 * Part 1: [youtube.com/watch?v=1wiMLkXz26M](https://www.youtube.com/watch?v=1wiMLkXz26M)
 * Part 2: [youtube.com/watch?v=ebCtNmTVIJY](https://www.youtube.com/watch?v=ebCtNmTVIJY)
 
-### Gene Hughson - Boundaries, Governance, Reuse & Complexity
+### Gene Hughson - Boundaries, Governance, Reuse & Complexity
 
 > Great post that contains lots of links
 
