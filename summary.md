@@ -13,7 +13,6 @@
   * [Links](book/conceptual-knowledge/links.md)
 * [Tool Mastery](book/tool-mastery.md)
 * [Team Communication](book/communication.md)
+* [Media](media.md)
 * [Contribute](book/contribute.md)
-
-
 
