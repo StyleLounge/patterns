@@ -47,7 +47,7 @@ it("should call amqplib.publish", function(done) {
 >
 > 1. Create an adapter for the library and thoroughly test the adapter against an actual RabbitMq instance.
 > 2. If you're positive that the adapter works correctly, you own it.
-> 3. You can know happily mock it in other tests
+> 3. You can now happily mock it in other tests
 
 ### Don't monkey patch
 
@@ -80,7 +80,26 @@ it("should call amqplib.publish", function(done) {
 
 ### If writing tests is not easy and obvious the code needs improvement
 
-🚧 This section doesn't exist yet. Please help by writing it!
+If the code in question is coupled to some other functionality or state, then it's not easy to test it, which means we need to first make the code "testable" then write tests for it
+Bad:
+```javascript
+const a = 12;
+const addNumbers = (b) => {
+  return a + b;
+}
 
+const result = addNumbers(20); // 32
 
+```
+addNumbers is not pure and it's bound to the global scope, then we need to make it testable
+Good:
+```javascript
+const a = 12;
+const addNumbers = (b + c) => {
+  return b + c;
+}
 
+const result = addNumbers(20, a); // 32
+```
+
+Now with the refactored function we can write proper test while the functionality of this function no longer depends on the global state
