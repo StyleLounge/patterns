@@ -30,9 +30,8 @@ Our stated goal is to provide knowledge that is as applicable in other contexts.
   * [Variables](book/code/variables.md)
   * [Conditionals](book/code/conditionals.md)
 * [Testing](book/testing.md)
-* [Team Communication](communication.md)
-* [Conceptual Knowledge](conceptual-knowledge.md)
-* [Tool Mastery](tool-knowledge.md)
+* [Team Communication](book/communication.md)
+* [Tool Mastery](book/links/tool-mastery.md)
 * [Contribute](contribute.md)
 * [License](license.md)
 
