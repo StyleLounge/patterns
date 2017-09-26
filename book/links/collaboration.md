@@ -22,9 +22,9 @@ git commit -m "fixes a bug causing product augmenter failure wip"
 > * Better documentation showing procedures, requirements etc exists on issue tracker
 ```
 // bad
-git commit -m "fixes a bug causing "
+git commit -m "fixes a bug causing product augmenter failure"
 // better
-git commit -m "SERVER-123 fixes a bug causing etc..."
+git commit -m "SERVER-123 fixes a bug causing product augmenter failure"
 ```
 
 * Semantic Commit Messages
