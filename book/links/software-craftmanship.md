@@ -9,20 +9,21 @@
 ### 📘 Head First Design Patterns \(Eric Freeman, Elisabeth Robson\)
 
 > This is book explains design patterns in a  straightforward, fun and easy to remember way
+* ISBN 978-0596007126
 
-### 📘 The Pragmatic Programmer \(Andrew Hunt and David Thomas\)
-
-> TODO
-
-### 📘 Clean Code \(Robert C. Martin\)
+### 📘 The Pragmatic Programmer: From Journeyman to Master \(Andrew Hunt and David Thomas\)
 
 > TODO
+* ISBN 978-0201616224
 
-### 📘 Design Patterns \(Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides\)
+### 📘 Clean Code: A Handbook of Agile Software Craftsmanship \(Robert C. Martin\)
+
+> TODO
+* ISBN 978-0132350884
+
+### 📘 Design Patterns: Elements of Reusable Object-Oriented Software \(Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides\)
 
 > The standard. And a great reference. In our experience “Head First Design Patterns”' is better at conveying the reasoning behind patterns and helps more with using patterns every day.
+* ISBN 978-0201633610
 
-### 
-
-
-
+###
