@@ -1,6 +1,7 @@
 # Summary
 
 * [Welcome!](readme.md)
+* [Design](design.md)
 * [Code](book/code/code.md)
   * [Errors](book/code/errors.md)
   * [Functions](book/code/functions.md)
@@ -16,5 +17,5 @@
   * [Software Craftsmanship](book/links/software-craftmanship.md)
   * [Tool Mastery](book/links/tool-mastery.md)
 * [Media](media.md)
-* [Contribute](contribute.md)
+* Design
 
