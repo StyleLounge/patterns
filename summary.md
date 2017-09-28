@@ -10,7 +10,7 @@
   * [Conditionals](book/code/conditionals.md)
   * [Async Functions](book/code/async-functions.md)
 * [Testing](book/testing.md)
-* [Architecture](architecture.md)
+* [Architecture](book/architecture.md)
 * [Collaboration](book/links/collaboration.md)
 * [Communication](book/communication.md)
 * [Links](book/links/links.md)
