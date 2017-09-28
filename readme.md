@@ -34,6 +34,7 @@ Our stated goal is to provide knowledge that is as applicable in other contexts.
 * [Tool Mastery](book/links/tool-mastery.md)
 * [Contribute](contribute.md)
 * [License](license.md)
+* [Authors](authors.md)
 
 
 
