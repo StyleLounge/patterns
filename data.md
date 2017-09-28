@@ -46,7 +46,20 @@ const b = {
 
 ### Validate First
 
-> Why? If functions properly
+> Why? Detecting structural errors early helps identifying bugs' root causes. It reduces attack vectors and makes the requirements of functions and systems more transparent.
+
+```typescript
+async handleMessage(car) {
+  await schemaValidator.validate(car)
+  // [...]
+}
+
+myFunction(name, age) {
+  ok(typeof name === "string", "name must be string");
+  ok(name.length > 10, "name too short");
+  // [...]
+}
+```
 
 
 
