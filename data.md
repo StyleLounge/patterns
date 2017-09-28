@@ -15,7 +15,38 @@
 
 * [Rich Hickey – The Value of Values](http://youtube.com/watch?v=-6BsiVyC1kM)
 
+```typescript
+// Traditional, OOP inspired
+
+class User {
+   petUnicorn = null;
+   constructor(name) {
+       this.name = name;
+   }
+}
+class PetUnicorn {
+   constructor(name, age) {
+       this.name = name;
+       this.age = age;
+   }
+}
+const a = new User("Meister Eder");
+a.petUnicorn = new PetUnicorn("Erwin", 13);
+
+
+// Values :)
+const b = {
+   name: "Meister Eder",
+   petUnicorn: {
+       name: "Erwin",
+       age: 13
+   }
+};
+```
+
 ### Validate First
+
+> Why? If functions properly
 
 
 
