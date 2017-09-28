@@ -1,6 +1,6 @@
 # Architecture
 
-TODO intro text
+
 
 ### 📄 Andrew Hao - Pitfalls to avoid when moving to async systems
 
