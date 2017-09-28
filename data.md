@@ -50,7 +50,7 @@ const b = {
 
 ```typescript
 async handleMessage(car) {
-  await schemaValidator.validate(car)
+  await schemaValidator.validate(carSchema, car)
   // [...]
 }
 
@@ -59,6 +59,24 @@ myFunction(name, age) {
   ok(name.length > 10, "name too short");
   // [...]
 }
+```
+
+### Structural Interfaces ❤️️ Schemas
+
+> Why? Object classes provide structural safety but schemas are more suited for the job because they're purpose-built. Structural interfaces \(like in TypeScript\) provide the type safety that's lost when not using objects. We now have the same level of structural safety and more powerful assertions thanks to schema validation.
+
+```typescript
+interface IUser {
+   name: string;
+   petUnicorn: { name: string; age: number; };
+}
+
+async handleMessage(user: IUser) {
+  await schemaValidator.validate(userSchema, user)
+  // We can now safely rely on user being an IUser.
+}
+
+
 ```
 
 
