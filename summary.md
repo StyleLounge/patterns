@@ -17,5 +17,6 @@
   * [Software Craftsmanship](book/links/software-craftmanship.md)
   * [Tool Mastery](book/links/tool-mastery.md)
 * [Media](media.md)
-* Design
+
+
 
