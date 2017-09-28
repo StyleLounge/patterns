@@ -30,6 +30,7 @@ Our stated goal is to provide knowledge that is as applicable in other contexts.
   * [Variables](book/code/variables.md)
   * [Conditionals](book/code/conditionals.md)
 * [Testing](book/testing.md)
+* [Templating](book/templating.md)
 * [Team Communication](book/communication.md)
 * [Tool Mastery](book/links/tool-mastery.md)
 * [Contribute](contribute.md)
