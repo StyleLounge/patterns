@@ -1,5 +1,11 @@
 # Testing
 
+### **Simple Testing Can Prevent Most Critical Failures**
+
+> **... for the most catastrophic failures, almost all of them are caused by incorrect error handling, and 58% of them are trivial mistakes or can be exposed by statement coverage testing.**
+>
+> [**acm.org/citation.cfm?id=2685068**](http://dl.acm.org/citation.cfm?id=2685068)
+
 ### Don't use **Mocha's **`this`** context**
 
 > Why? Easier to understand and maintain, especially with more complex tests
@@ -81,6 +87,4 @@ it("should call amqplib.publish", function(done) {
 ### If writing tests is not easy and obvious the code needs improvement
 
 🚧 This section doesn't exist yet. Please help by writing it!
-
-
 
