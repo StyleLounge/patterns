@@ -75,8 +75,6 @@ async handleMessage(user: IUser) {
   await schemaValidator.validate(userSchema, user)
   // We can now safely rely on user being an IUser.
 }
-
-
 ```
 
 
