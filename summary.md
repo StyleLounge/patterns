@@ -11,6 +11,7 @@
   * [Async Functions](book/code/async-functions.md)
 * [Testing](book/testing.md)
 * [Architecture](book/architecture.md)
+* [Naming](naming.md)
 * [Collaboration](book/links/collaboration.md)
 * [Communication](book/communication.md)
 * [Links](book/links/links.md)
@@ -18,4 +19,4 @@
   * [Software Craftsmanship](book/links/software-craftmanship.md)
   * [Tool Mastery](book/links/tool-mastery.md)
 * [Media](book/media.md)
-
+* [Naming](naming.md)
