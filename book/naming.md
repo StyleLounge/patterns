@@ -27,7 +27,7 @@
 
 ##### Better Solution
 
-* Name:`tracking_events_in database total`
+* Name:`tracking_events_in_database_total`
 * Description: "The number of tracking events found in the tracking-db"
 
 
