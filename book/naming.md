@@ -6,9 +6,9 @@
 
 #### Situation
 
-* tracking-db: A database with tracking events running on Google BigQuery
-* tracking-pixel: A service with an HTTP endpoint that persists events to the tracking-db
-* tracking-analyzer: A service that queries tracking-db to count and meter the number of tracking events
+* `tracking-db` A database with tracking events running on Google BigQuery
+* `tracking-pixel`A service with an HTTP endpoint that persists events to the tracking-db
+* `tracking-analyzer` A service that queries tracking-db to count and meter the number of tracking events
 
 #### Question: How to name a metric created by tracking-analyzer
 
@@ -28,7 +28,7 @@
 ##### Better Solution
 
 * Name:`tracking_events_in database total`
-* Description: "The number of tracking events found in the trackin-db"
+* Description: "The number of tracking events found in the tracking-db"
 
 
 
