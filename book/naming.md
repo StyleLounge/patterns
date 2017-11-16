@@ -7,7 +7,7 @@
 #### Situation
 
 * `tracking-db` A database with tracking events running on Google BigQuery
-* `tracking-pixel`A service with an HTTP endpoint that persists events to the tracking-db
+* `tracking-pixel` A service with an HTTP endpoint that persists events to the tracking-db
 * `tracking-analyzer` A service that queries tracking-db to count and meter the number of tracking events
 
 #### Question: How to name a metric created by tracking-analyzer
