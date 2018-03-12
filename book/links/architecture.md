@@ -1,6 +1,4 @@
-# Architecture
-
-
+# Links on Architecture
 
 ### 📄 Andrew Hao - Pitfalls to avoid when moving to async systems
 
