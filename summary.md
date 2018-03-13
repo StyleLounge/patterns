@@ -18,6 +18,6 @@
   * [Architecture](book/links/architecture.md)
   * [Software Craftsmanship](book/links/software-craftmanship.md)
   * [Tool Mastery](book/links/tool-mastery.md)
+  * [Monitoring](monitoring.md)
 * [Media](book/media.md)
-* [Monitoring](monitoring.md)
 
