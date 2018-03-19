@@ -8,5 +8,7 @@ Meaningful, useful patterns are built on the shoulders of giants. That is concep
 
 * [Tool Mastery](/book/links/tool-mastery.md)
 
+* [Monitoring](/book/links/monitoring.md)
+
 
 
