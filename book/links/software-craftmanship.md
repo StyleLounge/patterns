@@ -30,7 +30,11 @@
 >
 > * ISBN 978-0201633610
 
-## \#
+### 📘 Execution in the Kingdom of Nouns
+
+> Funny and enlighting text about some specialties of "JavaLand", a land populated by Java classes and objects.
+>
+> * [http://steve-yegge.blogspot.de/2006/03/execution-in-kingdom-of-nouns.html](http://steve-yegge.blogspot.de/2006/03/execution-in-kingdom-of-nouns.html)
 
 
 
