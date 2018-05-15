@@ -1,5 +1,11 @@
 # Links on Software Craftsmanship
 
+### 📄 Paul Graham - Revenge of the Nerds
+
+Inspiring and page-turning post about the evolution of programming languages and how they tend to get closer to LISPs design principles.
+
+* [paulgraham.com/icad.html](http://www.paulgraham.com/icad.html)
+
 ### 🗣 Rich Hickey – The Value of Values
 
 > Mind-opening talk about very common conceptions about entities and how to story information. A great motivator for immutability and definitely a must see.
