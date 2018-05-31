@@ -62,6 +62,32 @@ it("should call amqplib.publish", function(done) {
 > If it is necessary to replace just a part of the SUT to properly test,  
 > then the design is not very good and should be improved instead of working around obvious limitations.
 
+### Good Fixtures
+
+Fixtures have to be close to what could be expected in production. They have to focus on edge cases for the unit of code under test and it has to be simple to work with them when writing tests, code and debugging.
+
+Bad:
+
+```javascript
+const PRODUCT = {
+  id: 1,
+  brand: 1,  // If values are reused, reading output, error messages and debugging take longer
+  name: "foo", // Values must be close to production
+  category: "bar"
+}
+```
+
+Good:
+
+```javascript
+const PRODUCT = {
+  id: 10001,
+  brand: 2441,  // If values are reused, reading output, error messages and debugging take longer
+  name: "product name 10001", // Values must be close to production
+  category: "my one and only brand"
+}
+```
+
 ### Don't reuse
 
 > 🚧 This section is a stub. Please help by expanding it!
@@ -86,8 +112,9 @@ it("should call amqplib.publish", function(done) {
 
 ### If writing tests is not easy and obvious the code needs improvement
 
-If the code in question is coupled to some other functionality or state, then it's not easy to test it, which means we need to first make the code "testable" then write tests for it
+If the code in question is coupled to some other functionality or state, then it's not easy to test it, which means we need to first make the code "testable" then write tests for it  
 Bad:
+
 ```javascript
 const a = 12;
 const addNumbers = (b) => {
@@ -95,10 +122,11 @@ const addNumbers = (b) => {
 }
 
 const result = addNumbers(20); // 32
-
 ```
-addNumbers is not pure and it's bound to the global scope, then we need to make it testable
+
+addNumbers is not pure and it's bound to the global scope, then we need to make it testable  
 Good:
+
 ```javascript
 const a = 12;
 const addNumbers = (b + c) => {
@@ -109,3 +137,4 @@ const result = addNumbers(20, a); // 32
 ```
 
 Now with the refactored function we can write proper test while the functionality of this function no longer depends on the global state
+
