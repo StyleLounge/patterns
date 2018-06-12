@@ -1,26 +1,27 @@
 # Collaboration
 
-### Meaningful commit messages
+### Semantic commit messages
 
-This is a combination of
+Meaningful commit messages can be achieved in a number of way. This is just an example of what we found to be very useful.
 
-* Present-Tense Commit Messages, the sentence should sound like the whole sentence started with "This commit will "
-* Ticket IDs in branches and commit messages
-* Semantic Commit Messages
+* The message must say what the commit does, like "fixes bug where x happens" or "adds new icon to header".
+* Every message must contain the corresponding issue id to make it simple to retrieve all commits for a ticket.
+* It must use [semantic commit messages](http://seesparkbox.com/foundry/semantic_commit_messages)
 
-> * Why?
-> * Present-Tense Commit Messages makes the message easier to read and understand for team mates
-> * Having ticket numbers in commit message and branch name will make it easier to find the relevant ticket for more information
-> * Following the same logical structure enables the reader to find relevant parts faster and easier
+> Why?
+>
+> * Consistency across all commit messages makes it easy to understand code evolution
+> * Issue ids in all messages enforce working with issues and link commits to more comprehensive documentation in the issue tracker
+> * Using present-tense is short, expressive and simple
+> * Semantic commit messages allow automatic generation of changelogs
 
 ```
 // bad
-git commit -m "fixed bug where product augmenter would crash on invalid product id"
+"fixed bug where product augmenter would crash on invalid product id"
 
 // good
-git commit -m "fix: SERVER-123 fix bug where product augmenter would crash on invalid product id"
+"fix: SERVER-123 fixes bug where an invalid product ids crashes augmenter"
 ```
 
-* [seesparkbox.com/foundry/semantic\_commit\_messages](https://seesparkbox.com/foundry/semantic_commit_messages)
 
-###
+
