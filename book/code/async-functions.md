@@ -2,7 +2,7 @@
 
 ### **Use async/await instead of Promise chains**
 
-> Why? Async/await is syntactic sugar; it's cleaner and simplifies error handling and debugging
+> Why? Async/await is syntactic sugar; it's cleaner and simplifies error handling and debugging.
 
 ```typescript
 // bad
