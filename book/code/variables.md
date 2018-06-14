@@ -80,7 +80,7 @@ const myFunction = (): any => {
 };
 
 // better
-const myFunction = (): Object => {
+const myFunction = (): object => {
     return {
         prop: 'foobar'
     };
