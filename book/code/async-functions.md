@@ -8,10 +8,10 @@
 // bad
 const someAsyncInside = () => {
   return fetchAsync()
-    .then((data) => {
+    .then(data => {
       return anotherStuff(data);
     })
-    .catch((err) => {
+    .catch(err => {
       // error stuff
     })
 }
