@@ -98,7 +98,6 @@ const myFunction = (): {prop: string} => {
 interface IFooProp {
     prop: string;
 }
-
 const myFunction = (): IFooProp => {
     return {
         prop: 'foobar'
