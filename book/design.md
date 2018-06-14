@@ -2,7 +2,11 @@
 
 ### Decision Tables for Technologies
 
-> Why? There's infinite ways of building a large application. Every few weeks new frameworks, tools, languages are being made available in the various stacks and ecosystems. Both the criteria for a technology decision and the available solutions change continuously. It's not about constantly changing a company's stack. Knowing strengths and weak spots of the  approaches, languages, frameworks and paradigms used results in much better decision right from the design phase.
+> Why? There's infinite ways of building a large application. New frameworks, tools and languages emerge constantly. The criteria for a technology decision and the available solutions change all the time.
+>
+> Decision tables help to visualize trade-offs. For us, decision tables are not about counting pros/cons, but about understanding the trade-offs between options. Spotting trade-offs and having meaningful discussions on them is in the essence of software craftsmanship.
+>
+> Knowing strengths and weaknesses a finally selected approach helps to anticipate and mitigate future problems.
 
 ### The Walking Skeleton
 
