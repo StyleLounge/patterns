@@ -8,7 +8,7 @@
   * [Data](book/data.md)
   * [Variables](book/code/variables.md)
   * [Conditionals](book/code/conditionals.md)
-  * [Async Functions](book/code/async-functions.md)
+  * [Asynchronicity](book/code/async-functions.md)
 * [Testing](book/testing.md)
 * [Architecture](book/architecture.md)
 * [Naming](book/naming.md)
