@@ -22,7 +22,10 @@ const someAsyncInside = async () => {
     const data = await fetchAsync();
     anotherStuff(data);
   } catch (err) {
-    // error stuff
+    // deal with error
   }
 }
 ```
+
+
+
