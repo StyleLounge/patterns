@@ -18,19 +18,19 @@
 
 > Why? Accronyms and abbreviations are fun while inventing them but they don't scale. That means that the bigger a system gets the harder it is to transfer knowledge about what means what to the entire team and especially new members.
 
-##### Examples \(the actual pattern is highly
+##### Examples \(the implementation of the pattern is highly domain-specific\)
 
 ```
 p-tracking-admin-endpoint-de-1
-# An endpoint of the tracking component that provides administrative functionality.
-# It might exist for staging (s) but this one is running in production (p) in Germany (de).
-# Also it might be clustered behind a load balancer, hence the index (1)
-
-s-product-importer-feed-fetcher-us-3
-# A service within the product-importer component that fetches feeds from somewhere in
-# the world it's the product-importer-feed-fetcher that is deployed to the US staging
-# stage and apparently it's instances 3 within a cluster.
 ```
 
+* An endpoint of the tracking component that provides administrative functionality.
+* It might exist for staging \(s\) but this one is running in production \(p\) in Germany \(de\).
+* Also it might be clustered behind a load balancer, hence the index \(1\)
 
+```
+s-product-importer-feed-fetcher-us-3
+```
+
+A service within the product-importer component that fetches feeds from somewhere in the world it's the product-importer-feed-fetcher that is deployed to the US staging stage and apparently it's instances 3 within a cluster.
 
