@@ -2,6 +2,8 @@
 
 * [Welcome!](readme.md)
 * [Design](book/design.md)
+* [Architecture](book/architecture.md)
+* [Naming](book/naming.md)
 * [Code](book/code/code.md)
   * [Errors](book/code/errors.md)
   * [Functions](book/code/functions.md)
@@ -10,8 +12,6 @@
   * [Conditionals](book/code/conditionals.md)
   * [Asynchronicity](book/code/async-functions.md)
 * [Testing](book/testing.md)
-* [Architecture](book/architecture.md)
-* [Naming](book/naming.md)
 * [Collaboration](book/links/collaboration.md)
 * [Communication](book/communication.md)
 * [Links](book/links/links.md)
