@@ -1,6 +1,6 @@
 # Async functions
 
-### **Use async/await whenever possible**
+### **Use async/await instead of Promise chains**
 
 > Why? This syntax is cleaner, easy error handling and debugging
 
